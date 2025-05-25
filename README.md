@@ -57,8 +57,8 @@ Open an issue right [**here**](https://github.com/cybruGhost/cube/issues).
 
 ## 📜 License
 
-Licensed under **GPL v3** – Free to use, modify, and distribute.  
-[Read the License](https://www.gnu.org/licenses/gpl-3.0)
+Licensed under **GPL v3** – Free to use and distribute.  
+Read the License](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
