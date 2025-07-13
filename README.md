@@ -23,6 +23,7 @@
 Whether you're binge-watching, casually browsing, or saving shows for later — **Cube delivers**.
 
 ---
+![1000521101](https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9)
 
 ## ⭐️ Features You’ll Love
 
