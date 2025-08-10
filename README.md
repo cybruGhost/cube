@@ -9,6 +9,7 @@
 
 [![Latest Version](https://img.shields.io/github/v/release/cybruGhost/cube?label=Version&style=for-the-badge)](https://github.com/cybruGhost/cube/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen)](https://github.com/cybruGhost/cube/releases)
+[![Latest Downloads](https://img.shields.io/github/downloads/cybruGhost/cube/latest/total?label=Latest%20Downloads&style=for-the-badge&color=orange)](https://github.com/cybruGhost/cube/releases/latest)
 [![Localization](https://badges.crowdin.net/N-Zik/localized.svg)](https://crowdin.com/project/N-Zik)
 [![License](https://img.shields.io/github/license/cybruGhost/cube?style=for-the-badge&color=blue)](https://www.gnu.org/licenses/gpl-3.0)
 
