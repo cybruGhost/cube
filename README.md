@@ -26,16 +26,7 @@ Whether you're binge-watching, casually browsing, or saving shows for later — 
 ---
 ![1000521101](https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9)
 
-## ⭐️ Features You’ll Love
 
-- **HD Streaming** – Crystal clear quality without buffering.
-- **Download Section** – Save content offline. Anytime. Anywhere.
-- **No Ads** – Seriously. ZERO interruptions.
-- **Settings Page** – Control your vibe. Personalize your experience.
-- **Sleek UI** – Dark, smooth, and easy on the eyes.
-- **Fast as Hell** – Lightweight APK built for speed.
-
----
 
 ## 📥 Get It Now
 
@@ -44,23 +35,11 @@ Whether you're binge-watching, casually browsing, or saving shows for later — 
 
 ---
 
-## 🌍 Help Translate
-
-Cube speaks your language!  
-
----
 
 ## ⚠️ Found a Glitch?
 
 Spotted a bug or want a feature added?  
 Open an issue right [**here**](https://github.com/cybruGhost/cube/issues).
-
----
-
-## 📜 License
-
-Licensed under **GPL v3** – Free to use and distribute.  
-Read the License](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
