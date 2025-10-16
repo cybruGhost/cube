@@ -19,7 +19,7 @@
 
 ## 🚀 What is Cube?
 
-**Cube** is your all-in-one **HD streaming** & **offline download** hub. No subscriptions. No ads. No nonsense.Support me❣️
+**Cube** is your all-in-one **HD streaming** & **offline download** hub. No subscriptions. No ads..Support me on kofi❣️
 
 Whether you're binge-watching, casually browsing, or saving shows for later — **Cube delivers**.
 
