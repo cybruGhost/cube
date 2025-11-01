@@ -40,7 +40,7 @@ Whether you're binge-watching, casually browsing, or saving shows for later — 
 
 Spotted a bug or want a feature added?  
 Open an issue right [**here**](https://github.com/cybruGhost/cube/issues).
-
+New version coming soon
 ---
 
 <p align="center">
