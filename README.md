@@ -1,4 +1,4 @@
-<h1 align="center">✨ CUBE APK ✨</h1>
+<h1 align="center">✨ THE CUBE APK ✨</h1>
 
 <p align="center">
   <b>Stream. Download. Chill.</b><br>
