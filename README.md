@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Stream. Download. Chill.</b><br>
-  <i>No ads. Just pure HD entertainment.</i>
+  <i>No ads.</i>
 </p>
 
 <div align="center">
