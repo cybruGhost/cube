@@ -34,7 +34,7 @@ Whether you're binge-watching, casually browsing, or saving shows for later — 
 > Or check all versions in the [Releases](https://github.com/cybruGhost/cube/releases) tab.
 
 ---
-
+new coming soon
 
 ## ⚠️ Found a Glitch?
 
