@@ -1,7 +1,7 @@
 <h1 align="center">✨ THE CUBE APK ✨</h1>
 
 <p align="center">
-  <b>Stream add tolist. Download. Chill.</b><br>
+  <b>Stream add to list. Download. Chill.</b><br>
   <i>No ads.</i>
 </p>
 
