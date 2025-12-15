@@ -5,8 +5,8 @@
   <i>No ads.</i>
 </p>
 # support the cube ❣️❣️:(
-[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418
-<div align="center">)
+[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
+<div align="center">
 
 [![Latest Version](https://img.shields.io/github/v/release/cybruGhost/cube?label=Version&style=for-the-badge)](https://github.com/cybruGhost/cube/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen)](https://github.com/cybruGhost/cube/releases)
