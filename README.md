@@ -6,7 +6,8 @@
 </p>
 <div align="center">
 ---
-## support the cube ❣️❣️[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
+## support the cube ❣️❣️
+> [**https://ko-fi.com/anonghost40418**](https://ko-fi.com/anonghost40418)
 ---
 
 [![Latest Version](https://img.shields.io/github/v/release/cybruGhost/cube?label=Version&style=for-the-badge)](https://github.com/cybruGhost/cube/releases/latest)
