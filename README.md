@@ -1,6 +1,6 @@
 <h1 align="center">✨ THE CUBE APK ✨</h1>
-# support the cube ❣️❣️:(
-[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
+## support the cube ❣️❣️:
+>[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
 <p align="center">
   <b>Stream add to list. Download. Chill.</b><br>
   <i>No ads.</i>
