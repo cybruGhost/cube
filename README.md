@@ -1,13 +1,14 @@
 <h1 align="center">✨ THE CUBE APK ✨</h1>
----
-## support the cube ❣️❣️:
->[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
----
+
 <p align="center">
   <b>Stream add to list. Download. Chill.</b><br>
   <i>No ads.</i>
 </p>
 <div align="center">
+---
+## support the cube ❣️❣️:
+>[https://ko-fi.com/anonghost40418] (https://ko-fi.com/anonghost40418)
+---
 
 [![Latest Version](https://img.shields.io/github/v/release/cybruGhost/cube?label=Version&style=for-the-badge)](https://github.com/cybruGhost/cube/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen)](https://github.com/cybruGhost/cube/releases)
