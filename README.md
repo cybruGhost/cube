@@ -1,7 +1,7 @@
 <h1 align="center">✨ THE CUBE APK ✨</h1>
 ---
 
-## ❤️ Support The Cube ALWAYS
+## ❤️ Support The Cube
 
 If you enjoy our work and want to support development, you can buy us a coffee ☕  
 
