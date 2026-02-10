@@ -1,4 +1,4 @@
-<h1 align="center">✨ THE CUBE APK ✨</h1>
+<h1 align="center">✨ THE CUBE APK💓 ✨</h1>
 ---
 
 ## ❤️ Support The Cube
