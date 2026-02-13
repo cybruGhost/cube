@@ -21,7 +21,7 @@
 
 **THE CUBE** is a premium streaming application designed for Android, iOS, and Android TV users who demand quality entertainment. Experience a vast collection of movies and TV shows through an intuitive, modern interface that puts content discovery at your fingertips.
 
-> ⚠️ **Note:** Due to platform restrictions, detailed technical information is limited. For complete access and information, visit our official website: [**thecub.netlify.app**](https://thecub.netlify.app/)
+> ⚠️**Note:** I won’t explain more about the app here to avoid takedown. For full access, visit our website: [https://thecub.netlify.app/](https://thecub.netlify.app/)
 
 ---
 
