@@ -1,21 +1,29 @@
 <h1 align="center">✨ THE CUBE APK💓 ✨</h1>
 ---
 
-## ❤️ Support The Cube
+## 🚀 What Is THE CUBE?
+
+**THE CUBE** is a dynamic streaming app tailored for Android, iOS, and Android TV, offering a seamless way to access high-quality movies and TV shows. With a sleek, user-friendly design, it allows users to effortlessly explore an extensive library of content. Trending titles from genres like Action, Sci-Fi, Comedy, and Drama are displayed on the home screen for easy discovery.  
+
+**Note:** I won’t explain more about the app here to avoid takedown. For full access, visit our website: [https://thecub.netlify.app/](https://thecub.netlify.app/)
+
+---
+
+## ❤️ Support THE CUBE
 
 If you enjoy our work and want to support development, you can buy us a coffee ☕  
 
 👉 **[ko-fi.com/anonghost40418](https://ko-fi.com/anonghost40418)**
 
-Every bit of support helps keep The Cube growing ❣️🚀..  
-🔥
+Every bit of support helps keep THE CUBE growing ❣️🚀  
+
 ---
+
 <p align="center">
-  <b>Stream add to list. Download. Chill.</b><br>
+  <b>Stream. Add to list. Download. Chill.</b><br>
   <i>No ads.</i>
 </p>
 <div align="center">
-
 
 [![Latest Version](https://img.shields.io/github/v/release/cybruGhost/cube?label=Version&style=for-the-badge)](https://github.com/cybruGhost/cube/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen)](https://github.com/cybruGhost/cube/releases)
@@ -27,16 +35,18 @@ Every bit of support helps keep The Cube growing ❣️🚀..
 
 ---
 
-## 🚀 What is Cube?
+## 🌟 Key Features
 
-**Cube** is your all-in-one app **HD streaming** & **offline download** hub. No subscriptions. No ads..Support me on kofi❣️
-
-Whether you're binge-watching, casually browsing, or saving shows for later — **Cube delivers**.
+- **Stream on PC & Mobile:** Explore a vast library of movies and TV series in multiple genres and languages.  
+- **Advanced Native Player:** Smooth playback, seek, drag, and lock options for an enhanced viewing experience.  
+- **Ad-Free Experience:** Enjoy uninterrupted streaming with no ads.  
+- **High-Quality Streaming:** Watch content in HD and even 4K for stunning visuals and crystal-clear sound.  
+- **Personal Playlists:** Curate your own watchlist and never miss your favorite titles.  
+- **Continuous Updates:** Fresh content added regularly to keep your library exciting.  
+- **Safe & Secure:** No dangerous permissions required; your privacy is protected.  
+- **Offline Downloads:** Save movies and TV shows in resolutions from 360p to 4K for offline access.  
 
 ---
-![1000521101](https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9)
-
-
 
 ## 📥 Get It Now
 
@@ -44,13 +54,12 @@ Whether you're binge-watching, casually browsing, or saving shows for later — 
 > Or check all versions in the [Releases](https://github.com/cybruGhost/cube/releases) tab.
 
 ---
-new coming soon
 
 ## ⚠️ Found a Glitch?
 
 Spotted a bug or want a feature added?  
 Open an issue right [**here**](https://github.com/cybruGhost/cube/issues).
-New version coming soon
+
 ---
 
 <p align="center">
