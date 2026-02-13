@@ -29,11 +29,11 @@
 
 | Feature | Description |
 |---------|-------------|
-| **🎬 Multi-Platform** | Seamlessly works on Android, iOS, and Android TV |
+| **🎬 Multi-Platform** | Seamlessly works on Android, and Android TV |
 | **🚫 Ad-Free** | Uninterrupted streaming experience |
 | **📺 High Quality** | Support for HD and 4K content |
 | **⬇️ Offline Mode** | Download content from 360p to 4K resolution |
-| **📋 Smart Playlists** | Create and manage your personal watchlist |
+| **📋 Mylist** | Create and manage your personal watchlist |
 | **🎯 Native Player** | Advanced controls with seek, drag, and lock options |
 | **🔄 Regular Updates** | Fresh content added consistently |
 | **🔒 Privacy First** | No dangerous permissions required |
