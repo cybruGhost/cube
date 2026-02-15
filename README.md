@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/github/v/release/cybruGhost/cube?label=Latest%20Version&style=for-the-badge&color=blueviolet" alt="Latest Version">
   </a>
   <a href="https://github.com/cybruGhost/cube/releases">
+    <img src="https://img.shields.io/github/downloads/cybruGhost/cube/latest/total?label=Latest%20Release%20Downloads&style=for-the-badge&color=orange" alt="Latest Release Downloads">
+  </a>
+  <a href="https://github.com/cybruGhost/cube/releases">
     <img src="https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Total%20Downloads&style=for-the-badge&color=brightgreen" alt="Total Downloads">
   </a>
   <a href="https://ko-fi.com/anonghost40418">
