@@ -115,6 +115,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 <p align="center">
   <a href="https://thecub.netlify.app/">🌐 Official Website</a> •
-  <a href="https://github.com/cybruGhost/cube/releases">📦 Downloads</a> •
+  <a href="https://github.com/cybruGhost/cube/releases"> Downloads</a> •
   <a href="https://ko-fi.com/anonghost40418">☕ Support</a>
 </p>
