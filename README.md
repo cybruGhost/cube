@@ -20,7 +20,7 @@
 
 ---
 
-## About app❤️
+## About app
 
 **THE CUBE** is a premium streaming application designed for Android, iOS, and Android TV users who demand quality entertainment. Experience a vast collection of movies and TV shows through an intuitive, modern interface that puts content discovery at your fingertips.
 
