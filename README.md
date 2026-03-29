@@ -43,7 +43,7 @@
 
 ---
 
-## 📸 Preview
+## 📸 Preview/screenshot
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9" alt="App Screenshot" width="300">
