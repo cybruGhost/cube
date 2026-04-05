@@ -63,7 +63,7 @@
 
 ## 💖 Support Development
 
-Love THE CUBE? Help us keep it running and improving!
+Love THE CUBE? Help us keep it running and improving! always
 
 <p align="center">
   <a href="https://ko-fi.com/anonghost40418">
