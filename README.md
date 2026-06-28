@@ -68,7 +68,7 @@
 Enjoy using **THE CUBE**? Your support helps keep the project active and continuously improving.
 
 <p align="center">
-  <a href="https://ko-fi.com/anonghost40418](https://cyberghost-shop.fourthwall.com">
+  <a href="https://cyberghost-shop.fourthwall.com">
     <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" alt="Support on Ko-fi" height="50">
   </a>
 </p>
