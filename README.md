@@ -23,7 +23,7 @@
 
 ## About
 
-**THE CUBE** is a modern entertainment application built for Android, iOS, and Android TV. It focuses on providing a smooth, responsive, and user-friendly experience with a clean interface and powerful playback capabilities.
+**THE CUBE** is a modern entertainment application built for Android and Android TV. It focuses on providing a smooth, responsive, and user-friendly experience with a clean interface and powerful playback capabilities.
 
 > ℹ️ For more information, release notes, and updates, visit our official website:
 > https://thecub.netlify.app/
@@ -121,4 +121,3 @@ This project is licensed under the GNU General Public License v3.0. See the **LI
   <a href="https://github.com/cybruGhost/cube/releases">Downloads</a> •
   <a href="https://ko-fi.com/anonghost40418">☕ Support</a>
 </p>
-```
