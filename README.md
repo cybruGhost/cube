@@ -1,6 +1,7 @@
-<h1 align="center">✨ THE CUBE APK ✨</h1>
+
+<h1 align="center">✨ THE CUBE ✨</h1>
 <p align="center">
-  <b>Your Ultimate Streaming Companion • No Ads • High Quality • Free</b>
+  <b>A Modern Media Experience • Fast • Clean • Cross-Platform</b>
 </p>
 
 <p align="center">
@@ -20,11 +21,12 @@
 
 ---
 
-## About app
+## About
 
-**THE CUBE** is a cool streaming application designed for Android, iOS, and Android TV users who demand quality entertainment. Experience a vast collection of movies and TV shows through an intuitive, modern interface that puts content discovery at your fingertips.
+**THE CUBE** is a modern entertainment application built for Android, iOS, and Android TV. It focuses on providing a smooth, responsive, and user-friendly experience with a clean interface and powerful playback capabilities.
 
-> ⚠️**Note:** I won’t explain more about the app here to avoid takedown. For full access, visit our website today or tommorow or now: [https://thecub.netlify.app/](https://thecub.netlify.app/)
+> ℹ️ For more information, release notes, and updates, visit our official website:
+> https://thecub.netlify.app/
 
 ---
 
@@ -32,38 +34,38 @@
 
 | Feature | Description |
 |---------|-------------|
-| **🎬 Multi-Platform** | Seamlessly works on Android, and Android TV |
-| **🚫 Ad-Free** | Uninterrupted streaming experience |
-| **📺 High Quality** | Support for HD and 4K content |
-| **⬇️ Offline Mode** | Download content from 360p to 4K resolution |
-| **📋 Mylist** | Create and manage your personal watchlist |
-| **🎯 Native Player** | Advanced controls with seek, drag, and lock options |
-| **🔄 Regular Updates** | Fresh content added consistently |
-| **🔒 Privacy First** | No dangerous permissions required |
+| **📱 Multi-Platform** | Optimized for Android, iOS, and Android TV |
+| **⚡ Fast Performance** | Smooth navigation and responsive interface |
+| **🎨 Modern Design** | Clean UI designed for easy browsing |
+| **📂 Library Management** | Organize your favorites and collections |
+| **📝 My List** | Save titles for later viewing |
+| **▶️ Native Player** | Built-in playback with advanced controls |
+| **🔄 Frequent Updates** | Regular improvements and new features |
+| **🔒 Privacy Focused** | Minimal permissions and user-first design |
 
 ---
 
-## 📸 Preview/screenshot
+## 📸 Preview
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9" alt="App Screenshot" width="300">
-  <p><i>Sleek, modern interface for effortless browsing</i></p>
+  <p><i>Designed with simplicity, speed, and ease of use in mind.</i></p>
 </div>
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
-1. **Download** the latest APK from the [**Releases**](https://github.com/cybruGhost/cube/releases/latest) page
-2. **Install** on your Android device or Android TV
-3. **Launch** and start exploring thousands of titles
-4. **Create** your personal watchlist and enjoy!
+1. **Download** the latest APK from the **Releases** page.
+2. **Install** it on your supported device.
+3. **Launch** the application.
+4. **Customize** your experience and explore the available features.
 
 ---
 
 ## 💖 Support Development
 
-Love THE CUBE? Help us keep it running and improving! always
+Enjoy using **THE CUBE**? Your support helps keep the project active and continuously improving.
 
 <p align="center">
   <a href="https://ko-fi.com/anonghost40418">
@@ -71,21 +73,22 @@ Love THE CUBE? Help us keep it running and improving! always
   </a>
 </p>
 
-Your contributions help with:
-- 🚀 Server maintenance
+Your contributions help support:
+
+- 🚀 Infrastructure and hosting
 - 🎨 UI/UX improvements
-- 📺 New feature development
-- 🔧 Bug fixes and updates
+- ✨ New features
+- 🛠️ Maintenance and bug fixes
 
 ---
 
-## 🐛 Found an Issue?
+## 🐛 Feedback & Issues
 
-We're constantly improving! If you encounter any problems or have suggestions:
+Found a bug or have an idea for improvement?
 
-1. Check if it's already reported in [**Issues**](https://github.com/cybruGhost/cube/issues)
-2. If not, [**open a new issue**](https://github.com/cybruGhost/cube/issues/new) with details
-3. Include device model, Android version, and steps to reproduce
+1. Check the existing **Issues**.
+2. Open a new issue if your report hasn't been submitted.
+3. Include your device model, OS version, and reproduction steps whenever possible.
 
 ---
 
@@ -104,17 +107,18 @@ We're constantly improving! If you encounter any problems or have suggestions:
 
 ## 📜 License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the **LICENSE** file for details.
 
 ---
 
 <p align="center">
-  <b>Stream what you love • When you want • Where you want</b><br>
-  <i>Built with ⚡️ by <a href="https://github.com/cybruGhost">cybruGhost</a></i>
+  <b>Fast • Modern • Designed for a Better Viewing Experience</b><br>
+  <i>Built with ⚡ by <a href="https://github.com/cybruGhost">cybruGhost</a></i>
 </p>
 
 <p align="center">
   <a href="https://thecub.netlify.app/">🌐 Official Website</a> •
-  <a href="https://github.com/cybruGhost/cube/releases"> Downloads</a> •
+  <a href="https://github.com/cybruGhost/cube/releases">Downloads</a> •
   <a href="https://ko-fi.com/anonghost40418">☕ Support</a>
 </p>
+```
