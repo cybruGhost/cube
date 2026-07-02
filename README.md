@@ -17,6 +17,14 @@
 
 ---
 
+## 🚧 Active Development Notice
+
+> **THE CUBE is under heavy, active development.** Expect **frequent updates** — sometimes multiple times a week — as features are added, bugs are fixed, and things get reworked. Breaking changes, UI shifts, and rough edges are all part of the process right now.
+>
+> 📌 Star/watch the repo to keep up, and always grab the **latest release** before reporting issues — there's a good chance it's already fixed in a newer build.
+
+---
+
 ## About
 
 **THE CUBE** is a video player app for Android and Android TV, currently in active development. It focuses on smooth playback, a clean interface, and a simple browsing experience.
@@ -45,7 +53,7 @@
 
 ## 🚀 Getting Started
 
-1. Download the latest APK from **Releases**.
+1. Download the **latest** APK from **Releases** (updates roll out frequently, so check back often).
 2. Install on your device.
 3. Launch and explore.
 
@@ -53,7 +61,7 @@
 
 ## 🐛 Feedback & Issues
 
-Found a bug? Open an issue with your device model, OS version, and steps to reproduce.
+Found a bug? Open an issue with your device model, OS version, and steps to reproduce. Since this app updates frequently, please confirm the issue still exists on the latest release before filing.
 
 ---
 
