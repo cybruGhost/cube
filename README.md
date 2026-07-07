@@ -2,6 +2,14 @@
 <p align="center">
   <b>A Modern Video Player • Fast • Clean • Cross-Platform</b>
 </p>
+APK can now be installed through the Downloader app on devices like Fire TV, Fire Stick, and other Android TV devices.
+
+Downloader code is a convenient way to install
+
+Open the Downloader app and enter code 3085564 to install the latest version of Cube TV.
+
+Because the link points to releases/latest/download/app-release.apk, users will automatically receive the newest APK whenever I publish a new GitHub Release with the same asset name (app-release.apk).
+
 
 <p align="center">
   <a href="https://github.com/cybruGhost/cube/releases/latest">
@@ -76,6 +84,8 @@ Found a bug? Open an issue with your device model, OS version, and steps to repr
 ---
 
 ## 📜 License
+
+
 
 Licensed under the GNU General Public License v3.0. See **LICENSE** for details.
 
