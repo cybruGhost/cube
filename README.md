@@ -24,7 +24,7 @@ Because the link points to releases/latest/download/app-release.apk, users will 
 </p>
 
 ---
-## SEE MY WEBSITE..also MY APP IS PRETTY https://thecub4.vercel.app/
+ https://thecub4.vercel.app/
 ## 🚧 Active Development Notice
 
 > **THE CUBE is under heavy, active development.** Expect **frequent updates** — sometimes multiple times a week — as features are added, bugs are fixed, and things get reworked. Breaking changes, UI shifts, and rough edges are all part of the process right now.
