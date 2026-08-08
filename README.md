@@ -54,7 +54,8 @@ Because the link points to releases/latest/download/app-release.apk, users will 
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a743516-4af1-448d-81c9-918fdc4c80b9" alt="App Screenshot" width="300">
+ <img width="1080" height="2400" alt="622379252-584d5c70-f188-47f4-9422-e70093b9fcab" src="https://github.com/user-attachments/assets/566c941f-56d3-4321-81c5-79cd066a8b0e" />
+
 </div>
 
 ---
