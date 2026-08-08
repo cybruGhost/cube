@@ -52,11 +52,7 @@ Because the link points to releases/latest/download/app-release.apk, users will 
 ---
 
 ## 📸 Preview
-
-<div align="center">
- <img width="1080" height="2400" alt="622379252-584d5c70-f188-47f4-9422-e70093b9fcab" src="https://github.com/user-attachments/assets/566c941f-56d3-4321-81c5-79cd066a8b0e" />
-
-</div>
+ check  https://thecub.netlify.app/
 
 ---
 
