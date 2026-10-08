@@ -70,15 +70,6 @@ Found a bug? Open an issue with your device model, OS version, and steps to repr
 
 ---
 
-## 💖 Support
-
-<p align="center">
-  <a href="https://cyberghost-shop.fourthwall.com">
-    <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" alt="Support on Ko-fi" height="50">
-  </a>
-</p>
-
----
 
 ## 📜 License
 
