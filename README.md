@@ -1,82 +1,83 @@
 <h1 align="center">✨ THE CUBE ✨</h1>
+
 <p align="center">
-  <b>A Modern Video Player • Fast • Clean • Cross-Platform</b>
+  <b>Your Entertainment. Your Screen. Your Experience.</b>
 </p>
-APK can now be installed through the Downloader app on devices like Fire TV, Fire Stick, and other Android TV devices.
-
-Downloader code is a convenient way to install
-
-Open the Downloader app and enter code 3085564 to install the latest version of Cube TV.
-
-Because the link points to releases/latest/download/app-release.apk, users will automatically receive the newest APK whenever I publish a new GitHub Release with the same asset name (app-release.apk).
-
 
 <p align="center">
   <a href="https://github.com/cybruGhost/cube/releases/latest">
-    <img src="https://img.shields.io/github/v/release/cybruGhost/cube?label=Latest%20Version&style=for-the-badge&color=blueviolet" alt="Latest Version">
+    <img src="https://img.shields.io/github/v/release/cybruGhost/cube?label=Latest%20Version&style=for-the-badge&color=blueviolet">
   </a>
   <a href="https://github.com/cybruGhost/cube/releases">
-    <img src="https://img.shields.io/github/downloads/cybruGhost/cube/latest/total?label=Latest%20Release%20Downloads&style=for-the-badge&color=orange" alt="Latest Release Downloads">
-  </a>
-  <a href="https://github.com/cybruGhost/cube/releases">
-    <img src="https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen" alt="Total Downloads">
+    <img src="https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen">
   </a>
 </p>
 
 ---
 
-## 🚧 Active Development Notice
+## 🍿 Something Worth Exploring
 
-> **THE CUBE is under heavy, active development.** Expect **frequent updates** — sometimes multiple times a week — as features are added, bugs are fixed, and things get reworked. Breaking changes, UI shifts, and rough edges are all part of the process right now.
->
-> 📌 Star/watch the repo to keep up, and always grab the **latest release** before reporting issues — there's a good chance it's already fixed in a newer build.
+Some things are better experienced than explained.
 
----
+**THE CUBE** is one of them. ❤️
 
-## About
+Built with passion, designed with care, and constantly improving.
 
-**THE CUBE** is a video player app for Android and Android TV, currently in active development. It focuses on smooth playback, a clean interface, and a simple browsing experience.
+Whether you're on your Android phone or Android TV, there's something special waiting for you.
 
-> ⚠️ This project is still in development — features and code may change frequently.
+**Don't just take our word for it. Download the app and discover the gem for yourself. 💎**
 
----
+### 🚀 Get The Cube
 
-## ✨ Features
+📱 **Android & Android TV**
 
-- ▶️ Native video player with advanced controls
-- 📂 Library management
-- 📝 Save titles to "My List"
-- 📱 Optimized for Android & Android TV
-- 🎨 Clean, minimal UI
+👉 **[Download The Latest Version](https://github.com/cybruGhost/cube/releases/latest)**
 
----
+🌐 **[Visit Our Website](https://thecub.netlify.app/)**
 
-## 📸 Preview
- check  https://thecub.netlify.app/
+### 📺 Fire TV, Fire Stick & Android TV
 
----
+Installing through the **Downloader** app?
 
-## 🚀 Getting Started
+Simply enter:
 
-1. Download the **latest** APK from **Releases** (updates roll out frequently, so check back often).
-2. Install on your device.
-3. Launch and explore.
+# `3085564`
+
+And you're ready to go!
 
 ---
 
-## 🐛 Feedback & Issues
+## ❤️ Made With Passion
 
-Found a bug? Open an issue with your device model, OS version, and steps to reproduce. Since this app updates frequently, please confirm the issue still exists on the latest release before filing.
+THE CUBE is an independently developed project, built for people who appreciate a great entertainment experience.
+
+It's constantly evolving, with new improvements, refinements, and features along the way.
+
+Your feedback helps make it even better.
 
 ---
 
+## 🐛 Feedback & Suggestions
+
+Found something that could be better?
+
+Feel free to [open an issue](https://github.com/cybruGhost/cube/issues).
+
+Your ideas, suggestions, and feedback are always welcome.
+
+---
 
 ## 📜 License
 
+Licensed under the GNU General Public License v3.0.
+See [LICENSE](LICENSE) for details.
 
-
-Licensed under the GNU General Public License v3.0. See **LICENSE** for details.
+---
 
 <p align="center">
-  <i>Built with ⚡ by <a href="https://github.com/cybruGhost">cybruGhost</a></i>
+  <b>Made with ❤️ by <a href="https://github.com/cybruGhost">CyberGhost</a></b>
+</p>
+
+<p align="center">
+  <i>THE CUBE — Experience it for yourself. 🍿</i>
 </p>
