@@ -1,16 +1,19 @@
 <h1 align="center">✨ THE CUBE ✨</h1>
 
 <p align="center">
-  <b>Your Entertainment. Your Screen. Your Experience.</b>
+<b>Your Entertainment. Your Screen. Your Experience.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cybruGhost/cube/releases/latest">
-    <img src="https://img.shields.io/github/v/release/cybruGhost/cube?label=Latest%20Version&style=for-the-badge&color=blueviolet">
-  </a>
-  <a href="https://github.com/cybruGhost/cube/releases">
-    <img src="https://img.shields.io/github/downloads/cybruGhost/cube/total?label=Downloads&style=for-the-badge&color=brightgreen">
-  </a>
+<a href="https://github.com/cybruGhost/cube/releases/latest">
+<img src="https://img.shields.io/github/v/release/cybruGhost/cube?label=Latest%20Version&style=for-the-badge&color=blueviolet">
+</a>
+<a href="https://github.com/cybruGhost/cube/releases/latest">
+<img src="https://img.shields.io/github/downloads/cybruGhost/cube/latest/total?label=Latest%20Release%20Downloads&style=for-the-badge&color=orange">
+</a>
+<a href="https://github.com/cybruGhost/cube/releases">
+<img src="https://img.shields.io/github/downloads/cybruGhost/cube/total?label=All-Time%20Downloads&style=for-the-badge&color=brightgreen">
+</a>
 </p>
 
 ---
