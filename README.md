@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo.jpg" alt="THE CUBE Logo" width="220" />
+  <img src="assets/logo.jpg" alt="THE CUBE Logo" width="220" />
 </p>
 
 <h1 align="center">✨ THE CUBE ✨</h1>
