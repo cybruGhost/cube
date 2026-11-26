@@ -44,7 +44,6 @@ Whether you're on your Android phone, Android TV, desktop, or browser, there's s
 ### 🖼️ Screenshots
 
 | Home | Explore |
-| Home | Explore |
 | :---: | :---: |
 | <img src="assets/home.jpg" alt="Home" width="240" /> | <img src="assets/explore.jpg" alt="Explore" width="240" /> |
 
