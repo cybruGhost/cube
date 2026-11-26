@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="THE CUBE Logo" width="220" />
+</p>
+
 <h1 align="center">✨ THE CUBE ✨</h1>
 
 <p align="center">
@@ -26,9 +30,31 @@ Some things are better experienced than explained.
 
 Built with passion, designed with care, and constantly improving.
 
-Whether you're on your Android phone or Android TV, there's something special waiting for you.
+Whether you're on your Android phone, Android TV, desktop, or browser, there's something special waiting for you — with no subscriptions and no required account.
 
 **Don't just take our word for it. Download the app and discover the gem for yourself. 💎**
+
+### ✨ Highlights
+
+* **Multi-platform support:** One APK for Android phones and Android TV (plus a dedicated **CubeTV** option), native builds for Windows and Linux, and a browser version at [thecub4.vercel.app](https://thecub4.vercel.app/).
+* **Discovery & catalog:** Browse trending movies and TV shows, resume watching with *Continue Watching*, explore *Popular for Kids*, and filter by genres, channels, or studios.
+* **Player & offline downloads:** Fullscreen video player, subtitle selection via OpenSubtitles, customizable playback/subtitle settings, and offline downloads.
+* **Companion app:** Check out **Cubic Music** for music streaming from the same developer.
+
+### 🖼️ Screenshots
+
+| Home | Explore |
+| :---: | :---: |
+| <img src="assets/home.jpg" alt="Home" width="240" /> | <img src="assets/explore.jpg" alt="Explore" width="240" /> |
+
+| Search | Top Rated Movies |
+| :---: | :---: |
+| <img src="assets/search.jpg" alt="Search" width="240" /> | <img src="assets/top-rated-movies.jpg" alt="Top Rated Movies" width="240" /> |
+
+| Downloads | Settings |
+| :---: | :---: |
+| <img src="assets/downloads.jpg" alt="Downloads" width="240" /> | <img src="assets/settings.jpg" alt="Settings" width="240" /> |
+
 
 ### 🚀 Get The Cube
 
@@ -36,7 +62,11 @@ Whether you're on your Android phone or Android TV, there's something special wa
 
 👉 **[Download The Latest Version](https://github.com/cybruGhost/cube/releases/latest)**
 
+💻 **Desktop & Web**
+
 🌐 **[Visit Our Website](https://thecub.netlify.app/)**
+
+▶️ **[Stream in Browser (No Install)](https://thecub4.vercel.app/)**
 
 ### 📺 Fire TV, Fire Stick & Android TV
 
