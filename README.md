@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="THE CUBE Logo" width="220" />
+  <img src="assets/Logo.jpg" alt="THE CUBE Logo" width="220" />
 </p>
 
 <h1 align="center">✨ THE CUBE ✨</h1>
@@ -43,15 +43,19 @@ Whether you're on your Android phone, Android TV, desktop, or browser, there's s
 
 ### 🖼️ Screenshots
 
-> Replace the image paths below with the exact filenames or URLs of your English screenshots.
-
-| Home & Discovery | Browsing & Search |
+| Home | Explore |
+| Home | Explore |
 | :---: | :---: |
-| ![Home Screen](assets/screenshot-home.png) | ![Browsing & Search](assets/screenshot-search.png) |
+| <img src="assets/home.jpg" alt="Home" width="240" /> | <img src="assets/explore.jpg" alt="Explore" width="240" /> |
 
-| Video Player & Subtitles | Downloads & Settings |
+| Search | Top Rated Movies |
 | :---: | :---: |
-| ![Player & Subtitles](assets/screenshot-player.png) | ![Downloads & Settings](assets/screenshot-settings.png) |
+| <img src="assets/search.jpg" alt="Search" width="240" /> | <img src="assets/top-rated-movies.jpg" alt="Top Rated Movies" width="240" /> |
+
+| Downloads | Settings |
+| :---: | :---: |
+| <img src="assets/downloads.jpg" alt="Downloads" width="240" /> | <img src="assets/settings.jpg" alt="Settings" width="240" /> |
+
 
 ### 🚀 Get The Cube
 
